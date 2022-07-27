@@ -1,1 +1,13 @@
-ECHO is on.
+#navy-form {
+    text-align: center;
+}
+
+body {
+    background-image: url("group.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about {
+    opacity: 80%;
+}
